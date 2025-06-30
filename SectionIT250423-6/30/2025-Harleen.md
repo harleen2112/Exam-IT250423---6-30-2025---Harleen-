@@ -31,10 +31,28 @@ Search indicates that excel has a memory and file size limits. if spreadsheet is
 **Part B**
 3 sites with basic MS Windows memory Troubleshooting
 
-http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/
+1.http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/
 : Microsoft official support site provides detailed guidance on identifying and fixing memory loss issues, including steps like monitoring processes in task manager, updating driver.
-https://www.lifewire.com/
+: As an official source , its reliable and privide accurate solutions.
+
+2.https://www.lifewire.com/
 : Lifewire article offers user friendly solution such as disabling unnessary startup programs , increasing virtual memory , and closing unused application to free up RAM.
-https://www.howtogeek.com/670939/10-quick-steps-to-increase-pc-performance/
+: Offers beginners friendly solutions that are simple and easy to implement. 
+
+3.https://www.howtogeek.com/670939/10-quick-steps-to-increase-pc-performance/
 : this guide provide a comprehensive overview of troubleshooting techniques, including optimizing startup processes.
+:Balanced Technical depth with simplicity, making it accessible to awide audience.The incluion of links to related topics enhances the value of the resource.
+
+
+**Part C**
+General MS Windows Application Troubleshooting
+
+1: Microsoft Support: https://support.microsoft.com/en-us
+Offers official troubleshooting methods for basic application errors in windows , including resetting , repairing applications.Comprehensive and reliable for resolving application-related errors
+
+2: TechRadar: https://www.techradar.com/
+Covers general troubleshooting steps for fixing non-responsive apps, including clearing app caches, checking for updates, and reinstalling programs.Offers practical, straightforward solutions that are easy to follow for most users. The layout and examples make it beginner-friendly.
+
+3:https://www.makeuseof.com/
+Focuses on diagnosing application compatibility issues, error messages, and optimizing app performance.Focuses on niche issues like app compatibility and error message decoding, which are not always addressed by other resources.
 
